@@ -28,6 +28,21 @@ This Jupyter notebook performs a comprehensive analysis of customer data with th
 - `numpy`
 - `scikit-learn`
 
+  
+### Future Work 🚀
+
+Explore additional clustering methods and evaluation metrics to enhance analysis:
+
+- **Clustering Methods**:
+  - **Hierarchical Clustering**: Analyzes data based on a tree-like structure of nested clusters.
+  - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**: Groups together closely packed points and identifies outliers.
+  - **Gaussian Mixture Models (GMM)**: Uses probabilistic models to handle clusters with different shapes and sizes.
+
+- **Evaluation Metrics**:
+  - **Davies-Bouldin Index**: Measures the average similarity ratio of each cluster with its most similar cluster.
+  - **Calinski-Harabasz Index**: Evaluates the ratio of the sum of between-cluster dispersion to within-cluster dispersion.
+  - **Adjusted Rand Index (ARI)**: Compares the similarity of the clustering result with a ground truth classification.
+
 ## 
 
 Feel free to explore and modify the code for your specific needs!
