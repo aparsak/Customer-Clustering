@@ -17,6 +17,11 @@ This Jupyter notebook performs a comprehensive analysis of customer data with th
    - Plot clusters in PCA-reduced space and original feature space
    - Visualize cluster centers
 
+   Here is a sample visualization of the clusters after applying K-Means:
+
+   ![output](https://github.com/user-attachments/assets/b723da05-2f3b-493e-8689-fa48102d2837)
+
+
 5. **Evaluation** 🧩
    - Calculate and print the Silhouette Score to assess cluster quality
 
